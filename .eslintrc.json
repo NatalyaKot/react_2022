@@ -38,7 +38,10 @@
             {
                 "namedComponents": "arrow-function",
                 "unnamedComponents": "arrow-function" 
-             } ]
+             } ],
+             "react/no-unused-prop-types": "warn",
+             "no-unused-vars": "warn"
+
     }
 
 }
